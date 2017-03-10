@@ -1,0 +1,16 @@
+.gitconfig
+################################################################################
+
+[color]
+  ui = true
+[user]
+  name = countxyz
+  email = skeptoid@gmail.com
+[alias]
+  co = checkout
+  br = branch
+  st = status
+[core]
+  editor = vim
+[push]
+  default = simple
