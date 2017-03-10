@@ -7,13 +7,20 @@
   "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
   "ensure_newline_at_eof_on_save": true,
   "fade_fold_buttons": false,
-  "font_size": 12,
+  "font_size": 13,
   "highlight_line": true,
-  "ignored_packages": ["Vintage"],
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
   "line_padding_bottom": 1,
   "line_padding_top": 1,
   "preview_on_click": false,
-  "rulers": [80],
+  "rulers":
+  [
+    80
+  ],
+  "show_definitions": false,
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
