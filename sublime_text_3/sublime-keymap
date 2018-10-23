@@ -1,3 +1,5 @@
 [
-  { "keys": ["alt+z"], "command": "toggle_side_bar" }
+  { "keys": ["alt+z"], "command": "toggle_side_bar" },
+  { "keys": ["alt+x"], "command": "indent_xml"      },
+  { "keys": ["ctrl+r"], "command": "sync_both_directions" }
 ]
