@@ -1,5 +1,8 @@
 [
   { "keys": ["alt+z"], "command": "toggle_side_bar" },
   { "keys": ["alt+x"], "command": "indent_xml"      },
-  { "keys": ["ctrl+r"], "command": "sync_both_directions" }
+  { "keys": ["ctrl+r"], "command": "sync_both_directions" },
+  { "keys": ["f1"], "command": "unfold_all" },
+  { "keys": ["f2"], "command": "fold_by_level", "args": {"level": 2} },
+  { "keys": ["f3"], "command": "fold_by_level", "args": {"level": 3} }
 ]
