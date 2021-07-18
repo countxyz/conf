@@ -11,6 +11,7 @@
   "highlight_line": true,
   "ignored_packages":
   [
+    "SideBarEnhancements",
     "Vintage"
   ],
   "line_padding_bottom": 1,
