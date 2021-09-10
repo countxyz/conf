@@ -4,5 +4,6 @@
   { "keys": ["ctrl+r"], "command": "sync_both_directions" },
   { "keys": ["f1"], "command": "unfold_all" },
   { "keys": ["f2"], "command": "fold_by_level", "args": {"level": 2} },
-  { "keys": ["f3"], "command": "fold_by_level", "args": {"level": 3} }
+  { "keys": ["f3"], "command": "fold_by_level", "args": {"level": 3} },
+  { "keys": ["f4"], "command": "fold_by_level", "args": {"level": 4} }
 ]
