@@ -1,6 +1,6 @@
 alias b='bundle exec'
 alias clear_test_db='b rake db:drop RAILS_ENV=test && b rake db:create RAILS_ENV=test && b rake db:schema:load RAILS_ENV=test'
-alias dcd='docker compose down --volumes'
+alias dcd='docker compose down'
 alias dcp='docker compose -f docker-compose.profiles.yml up -d'
 alias dcpt='docker compose -f docker-compose.profiles.yml --profile test up -d'
 alias dcu='docker compose up'
